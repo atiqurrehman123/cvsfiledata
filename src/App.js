@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { CSVLink } from "react-csv";
-import AsyncCSV from "./AsyncCSV";
+// import AsyncCSV from "./AsyncCSV";
 const headers = [
   {
     label: "First Name",
